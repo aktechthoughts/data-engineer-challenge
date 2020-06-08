@@ -1,0 +1,8 @@
+
+{
+    "url":"https://api.weatherbit.io/v2.0/current",
+    "key":"61726bebc7ef4b3e91d7b91ec42966cd",
+    "log_name":"weather.log",
+    "Author":"Abhishek Kumar",
+    "email":"abhishek_ku@yahoo.com"
+}

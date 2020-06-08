@@ -1,0 +1,2 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.weatherbit.io:443
+DEBUG:urllib3.connectionpool:https://api.weatherbit.io:443 "GET /v2.0/current?key=61726bebc7ef4b3e91d7b91ec42966cd&postal_code=91056&country=de HTTP/1.1" 200 None
